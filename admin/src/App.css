@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=New+Amsterdam&display=swap');
+
+body{
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.text-primary{
+    color: #04471c; 
+}
+.bg-primary{
+    background-color: #04471c;
+}
+.border-primary{
+    border: 2px solid #04471c;
+}
+
+.text-secondary{
+    color: #F7B32B;
+}
+.bg-second{
+    background-color: #F7B32B;
+}
+.bg-second-hover{
+    background-color: #e99f0b;
+}
+.border-second{
+    border: 2px solid #F7B32B;
+}
+
+.text-second{
+    color: #F7B32B;
+}
+
+
+   
+
+.border-gr{
+    --tw-border-opacity: 1;
+    border-color: #0f5f2b;
+    border-bottom-width: 2px;
+    margin: 0px 33px;
+}
+.no-scrollbar::-webkit-scrollbar {
+    display: none; 
+  }
+  
+  /* .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  */
+  /* .custom-scrollbar::-webkit-scrollbar {
+     background: #f0f0f0; 
+  border-radius: 10px;
+  } */
